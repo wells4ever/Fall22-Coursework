@@ -1,0 +1,20 @@
+﻿Project5_prime.obj : error LNK2019: unresolved external symbol "public: void __cdecl Point::setX1(int)" (?setX1@Point@@QEAAXH@Z) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: void __cdecl Point::setY1(int)" (?setY1@Point@@QEAAXH@Z) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: int __cdecl Point::getX1(void)" (?getX1@Point@@QEAAHXZ) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: int __cdecl Point::getY1(void)" (?getY1@Point@@QEAAHXZ) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: __cdecl Point::Point(void)" (??0Point@@QEAA@XZ) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: __cdecl Point::Point(int,int)" (??0Point@@QEAA@HH@Z) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: double __cdecl Point::calculateDistanceFromOrigin(void)" (?calculateDistanceFromOrigin@Point@@QEAANXZ) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: void __cdecl Rectangle::setLength(double)" (?setLength@Rectangle@@QEAAXN@Z) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: void __cdecl Rectangle::setWidth(double)" (?setWidth@Rectangle@@QEAAXN@Z) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: double __cdecl Rectangle::getLength(void)" (?getLength@Rectangle@@QEAANXZ) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: double __cdecl Rectangle::getWidth(void)" (?getWidth@Rectangle@@QEAANXZ) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: __cdecl Rectangle::Rectangle(void)" (??0Rectangle@@QEAA@XZ) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: __cdecl Rectangle::Rectangle(double,double)" (??0Rectangle@@QEAA@NN@Z) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: double __cdecl Rectangle::calculateArea(void)" (?calculateArea@Rectangle@@QEAANXZ) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: double __cdecl Rectangle::calculatePerimeter(void)" (?calculatePerimeter@Rectangle@@QEAANXZ) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: double __cdecl Cube::getEdgeLength(void)" (?getEdgeLength@Cube@@QEAANXZ) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: __cdecl Cube::Cube(double)" (??0Cube@@QEAA@N@Z) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: double __cdecl Cube::calculateSurfaceArea(void)" (?calculateSurfaceArea@Cube@@QEAANXZ) referenced in function main
+Project5_prime.obj : error LNK2019: unresolved external symbol "public: double __cdecl Cube::calculateVolume(void)" (?calculateVolume@Cube@@QEAANXZ) referenced in function main
+C:\Users\dawel\source\repos\Project5_prime\x64\Debug\Project5_prime.exe : fatal error LNK1120: 19 unresolved externals

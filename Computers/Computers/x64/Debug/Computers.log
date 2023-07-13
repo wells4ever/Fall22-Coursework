@@ -1,0 +1,4 @@
+﻿  Personal_Computer.cpp
+C:\Users\dawel\source\repos\Computers\Computers\Personal_Computer.cpp(18,13): warning C4101: 'thrownYear': unreferenced local variable
+C:\Users\dawel\source\repos\Computers\Computers\Personal_Computer.cpp(58,13): warning C4101: 'thrownYear': unreferenced local variable
+  Computers.vcxproj -> C:\Users\dawel\source\repos\Computers\x64\Debug\Computers.exe

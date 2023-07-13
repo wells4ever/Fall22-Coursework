@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Computers" Collapsed="true">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAQAAAAAAAAAAAAAAEABBAAAAAAAAAQAA=</HashCode>
+      <FileName>Computers.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Console" Collapsed="true">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAQAAAAAAAgAAAAAAIAABAAAAAAAAAQQA=</HashCode>
+      <FileName>Console.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU" Collapsed="true">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CPU.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Personal_Computer" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAIAEAABAAAEAAAAAQQA=</HashCode>
+      <FileName>Personal_Computer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartPhone" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAQAAAAAAAAQAAAAACAABAAAAAAAAAQQA=</HashCode>
+      <FileName>SmartPhone.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,4 @@
+﻿  ccn_valid.cpp
+C:\Users\dawel\source\repos\CCN_validator\CCN_validator\ccn_valid.cpp(19,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dawel\source\repos\CCN_validator\CCN_validator\ccn_valid.cpp(26,25): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  CCN_validator.vcxproj -> C:\Users\dawel\source\repos\CCN_validator\x64\Debug\CCN_validator.exe
